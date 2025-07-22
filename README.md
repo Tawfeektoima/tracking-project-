@@ -6,11 +6,7 @@ A real-time object tracking system that allows the user to manually select an ob
 
 ---
 ## Features
--Real-time webcam capture using `cv2.VideoCapture`
--Manual object selection via ROI interface
--Object tracking using OpenCV’s **CSRT** tracker
--Visual feedback (green box for "Target", red text for "Lost")
--Stop tracking anytime by pressing the `q` key
+Real-time webcam capture using `cv2.VideoCapture`, Manual object selection via ROI interface, Object tracking using OpenCV’s **CSRT** tracker, and Visual feedback (green box for "Target", red text for "Lost")
 
 ---
 
